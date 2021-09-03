@@ -1,0 +1,12 @@
+"hunted"
+{
+	"base"		"base"
+	"title"		"HUNTED"
+	"category"	"pvp"
+	"menusystem"	"1"
+	"workshopid"	"-1"
+
+	"settings"
+	{
+	}
+}
